@@ -19,8 +19,8 @@ Below there are the slides used for presenting the lecture during the following 
 ## Notebooks
 
 Below there are 2 case studies for a beginning approach to the deep learning. The notebooks are implemented in `R` programming language, using the `keras` package:
-* **MNIST case study**: *image recognition* use case, solved using a *convolutional neural network* [[ita](MNIST_caso_studio.html)]
-* **IMDB case study**: *sentiment analysis* use case, solved using a *recurrent neural network* [[ita](IMDB_caso_studio.html)]
+* **MNIST case study**: *image recognition* use case, solved using a *convolutional neural network* [[ita](/assets/notebooks/MNIST_caso_studio.html)]
+* **IMDB case study**: *sentiment analysis* use case, solved using a *recurrent neural network* [[ita](/assets/notebooks/IMDB_caso_studio.html)]
 
 ## References
 * [https://web.stanford.edu/~hastie/CASI/](https://web.stanford.edu/~hastie/CASI/)
