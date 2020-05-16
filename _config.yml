@@ -18,7 +18,7 @@ texture:
   tagline: Statistician. Data Scientist. AI Analyst.
   date_format: "%b %-d, %Y"
   style: green
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer
@@ -34,9 +34,8 @@ texture:
 # - about.md
 
 # Build settings
-# theme: texture
-
 theme: texture
+
 remote_theme: thelehhman/texture
 plugins:
   - jekyll-seo-tag
