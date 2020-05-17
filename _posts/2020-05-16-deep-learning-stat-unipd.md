@@ -11,10 +11,10 @@ The following material was used during the Data Mining course of the faculty of 
 ## Presentations
 
 Below there are the slides used for presenting the lecture during the following conferences:
-* [19<sup>th</sup> May 2017](https://github.com/alessandroaere/deep-learning-stat-unipd/raw/master/presentations/deep_learning_2017.pdf) [2.2 MB]
-* [11<sup>th</sup> May 2018](https://github.com/alessandroaere/deep-learning-stat-unipd/raw/master/presentations/deep_learning_2018.pdf) [2.5 MB]
-* [24<sup>th</sup> May 2019](https://github.com/alessandroaere/deep-learning-stat-unipd/raw/master/presentations/deep_learning_2019.pdf) [3.1 MB]
-* [22<sup>nd</sup> May 2020](https://github.com/alessandroaere/deep-learning-stat-unipd/raw/master/presentations/deep_learning_2020.pdf) [1.7 MB]
+* [19<sup>th</sup> May 2017](/assets/presentations/deep_learning_2017.pdf)
+* [11<sup>th</sup> May 2018](/assets/presentations/deep_learning_2018.pdf)
+* [24<sup>th</sup> May 2019](/assets/presentations/deep_learning_2019.pdf)
+* [22<sup>nd</sup> May 2020](/assets/presentations/deep_learning_2020.pdf)
 
 ## Notebooks
 

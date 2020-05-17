@@ -17,7 +17,7 @@ texture:
   title: Alessandro Aere
   tagline: Statistician. Data Scientist. AI Analyst.
   date_format: "%b %-d, %Y"
-  style: green
+  style: blue
   showNav: true
   showPicker: false
 
