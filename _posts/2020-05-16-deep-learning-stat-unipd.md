@@ -19,8 +19,8 @@ Below there are the slides used for presenting the lecture during the following 
 ## Notebooks
 
 Below there are 2 case studies for a beginning approach to the deep learning. The notebooks are implemented in `R` programming language, using the `keras` package:
-* **MNIST case study**: *image recognition* use case, solved using a *convolutional neural network* [[eng](/assets/notebooks/MNIST_case_study.html)|[ita](/assets/notebooks/MNIST_caso_studio.html)]
-* **IMDB case study**: *sentiment analysis* use case, solved using a *recurrent neural network* [[eng](/assets/notebooks/IMDB_case_study.html)|[ita](/assets/notebooks/IMDB_caso_studio.html)]
+* **MNIST case study**: *image recognition* use case, solved using a *convolutional neural network* [[eng](/assets/notebooks/MNIST_case_study.html)\|[ita](/assets/notebooks/MNIST_caso_studio.html)]
+* **IMDB case study**: *sentiment analysis* use case, solved using a *recurrent neural network* [[eng](/assets/notebooks/IMDB_case_study.html)\|[ita](/assets/notebooks/IMDB_caso_studio.html)]
 
 ## References
 * [Efron, Bradley, and Trevor Hastie. Computer age statistical inference. Vol. 5. Cambridge University Press, 2016.
