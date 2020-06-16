@@ -1,5 +1,5 @@
-title: Alessandro Aere
-author: GitHub User
+title: Alessandro Aere's blog
+author: Alessandro Aere
 email: alessandro.aere@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Scientific blog about data science, machine learning, artificial intelligence,
@@ -39,4 +39,4 @@ theme: texture
 remote_theme: thelehhman/texture
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed

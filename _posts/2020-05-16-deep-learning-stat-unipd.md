@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to Deep Learning"
 description: "The following material was used during the Data Mining course of the faculty of Statistics at University of Padua."
-date:   2020-05-16
+date:   2020-05-22
 categories: DeepLearning Statistics
 ---
 
@@ -19,15 +19,19 @@ Below there are the slides used for presenting the lecture during the following 
 ## Notebooks
 
 Below there are 2 case studies for a beginning approach to the deep learning. The notebooks are implemented in `R` programming language, using the `keras` package:
-* **MNIST case study**: *image recognition* use case, solved using a *convolutional neural network* [[ita](/assets/notebooks/MNIST_caso_studio.html)]
-* **IMDB case study**: *sentiment analysis* use case, solved using a *recurrent neural network* [[ita](/assets/notebooks/IMDB_caso_studio.html)]
+* **MNIST case study**: *image recognition* use case, solved using a *convolutional neural network* [[eng](/assets/notebooks/MNIST_case_study.html)|[ita](/assets/notebooks/MNIST_caso_studio.html)]
+* **IMDB case study**: *sentiment analysis* use case, solved using a *recurrent neural network* [[eng](/assets/notebooks/IMDB_case_study.html)|[ita](/assets/notebooks/IMDB_caso_studio.html)]
 
 ## References
-* [https://web.stanford.edu/~hastie/CASI/](https://web.stanford.edu/~hastie/CASI/)
-* [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
-* [https://www.manning.com/books/deep-learning-with-python](https://www.manning.com/books/deep-learning-with-python)
+* [Efron, Bradley, and Trevor Hastie. Computer age statistical inference. Vol. 5. Cambridge University Press, 2016.
+](https://web.stanford.edu/~hastie/CASI/)
+* [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016.
+](http://www.deeplearningbook.org/)
+* [François, Chollet. "Deep learning with Python." (2017).](https://www.manning.com/books/deep-learning-with-python)
 
-* [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
-* [https://ai.stanford.edu/~amaas/data/sentiment/](https://ai.stanford.edu/~amaas/data/sentiment/)
+* [THE MNIST DATABASE
+of handwritten digits.](http://yann.lecun.com/exdb/mnist/)
+* [Large Movie Review Dataset.](https://ai.stanford.edu/~amaas/data/sentiment/)
 
-* [http://tesi.cab.unipd.it/54450/1/Aere_Alessandro.pdf](http://tesi.cab.unipd.it/54450/1/Aere_Alessandro.pdf)
+* [Aere, Alessandro. "Proprietà statistiche di modelli per il deep learning." (2017).
+](http://tesi.cab.unipd.it/54450/1/Aere_Alessandro.pdf)
